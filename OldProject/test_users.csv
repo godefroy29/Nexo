@@ -1,0 +1,9 @@
+email,password,role,business_name,affiliate_code,first_name,last_name,company_name
+admin@test.com,admin123,admin,N/A,N/A,Admin,User,System Admin
+backoffice@test.com,backoffice123,backoffice,N/A,N/A,Backoffice,Manager,System Backoffice
+tech.seller@test.com,seller123,buyer_seller,Tech Solutions Inc,TECH2024,John,Smith,Tech Solutions Inc
+tech.buyer@test.com,buyer123,buyer,Tech Solutions Inc,TECH2024,Sarah,Johnson,Tech Solutions Inc
+green.seller@test.com,green123,buyer_seller,Green Energy Corp,GREEN2024,Mike,Wilson,Green Energy Corp
+green.buyer@test.com,green456,buyer,Green Energy Corp,GREEN2024,Emma,Davis,Green Energy Corp
+digital.seller@test.com,digital123,buyer_seller,Digital Marketing Pro,DIGITAL2024,Alex,Brown,Digital Marketing Pro
+finance.buyer@test.com,finance123,buyer,Finance Experts Ltd,FINANCE2024,Lisa,Taylor,Finance Experts Ltd
